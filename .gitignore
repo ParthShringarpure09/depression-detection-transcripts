@@ -1,10 +1,6 @@
-data/
-transcripts/
-segments/
-*.zip
 .DS_Store
-data/
-transcripts/
-segments/
 *.zip
-.DS_Store
+data/
+features/
+segments/
+transcripts/
