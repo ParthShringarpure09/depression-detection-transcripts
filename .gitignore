@@ -7,3 +7,16 @@ transcripts/
 .vscode/
 __pycache__/
 *.pyc
+# large/generated data — not tracked
+data/
+features/
+segments/
+transcripts/
+Models/
+raw_audio/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# personal/sensitive
+papers/Meeting_Notes_Text_Branch.docx
