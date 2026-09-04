@@ -20,3 +20,18 @@ __pycache__/
 
 # personal/sensitive
 papers/Meeting_Notes_Text_Branch.docx
+# generated data — not tracked
+data/
+features/
+segments/
+transcripts/
+Models/
+raw_audio/
+
+# python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# papers & private notes
+papers/
