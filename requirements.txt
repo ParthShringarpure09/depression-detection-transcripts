@@ -1,0 +1,23 @@
+Requirements · TXT
+# Python 3.10
+# Segmentation, feature extraction, classification and analysis (CPU only).
+ 
+# core numerics
+numpy==1.26.4
+pandas==2.2.3
+scipy==1.15.3
+ 
+# models
+torch==2.12.0
+transformers==5.13.1
+scikit-learn==1.7.2
+ 
+# notebooks, progress, figures
+jupyter==1.1.1
+matplotlib==3.9.2
+tqdm==4.67.1
+ 
+# --- transcription only (transcribe.ipynb, GPU + ffmpeg required) ---
+# Installed inside the Colab notebook; uncomment to run transcription locally.
+# openai-whisper==20240930
+ 
